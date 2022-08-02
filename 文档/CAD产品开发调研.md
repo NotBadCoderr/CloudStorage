@@ -37,16 +37,43 @@
 
 ## 各类产品
 
-- 迅捷CAD
-	- SDK 
-	  Open Design Alliance
-- CAD快速看图
-  	- SDK 
-	  未知
-- 浩辰CAD看图王  	
-  - SDK 
-	  Open Design Alliance
-- 转转大师CAD编辑器
-  - SDK 
-	  CADSoftTools
+### 迅捷CAD
+	
+ | SDK |  Open Design Alliance |
+ |- |- |
+ | 图层|✔️|
+ | 测量   |✔️|
+ | 编辑CAD |✔️|
+ | 格式转换 |✔️|
+ | 3D视图|❌|
+ | 自定义格式导出|❌|
+	
+### CAD快速看图
+   | SDK |  未知 |
+ |- |- |
+ | 图层|✔️|
+ | 测量   |✔️|
+ | 编辑CAD |✔️|
+ | 格式转换 |✔️|
+ | 3D视图|❌|
+ | 自定义格式导出|❌|
+### 浩辰CAD看图王  	
+  | SDK |  Open Design Alliance |
+ |- |- |
+ | 图层|✔️|
+ | 测量   |✔️|
+ | 编辑CAD |✔️|
+ | 格式转换 |✔️|
+ | 3D视图|❌|
+ | 自定义格式导出|❌|
+### 转转大师CAD编辑器
+
+  | SDK | CADSoftTools |
+ |- |- |
+  | 图层|✔️|
+ | 测量   |✔️|
+ | 编辑CAD |✔️|
+ | 格式转换 |✔️|
+ | 3D视图|✔️|
+ | 自定义格式导出|✔️|
 	  
