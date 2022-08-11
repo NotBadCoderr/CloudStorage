@@ -30,14 +30,13 @@
 |AutoCAD.NET|免费|C#|全版本|☆☆☆|
 |开源库 LibreDWG| 免费 | C/C++ | AutoCAD™ 2006 | ☆☆☆☆☆|
 |ODA|6000$首年 3600\$次年|C++/C#/JAVA|-|☆☆|
-|RaelDWG|8000$/年|-|全版本|- |
-|CadLib|永久1300$|C++/C#/JAVA|AutoCAD™ 2013-2017|☆☆|
-|CADSoftTools|永久 1600 - 700$|C++/C#/JAVA|AutoCAD™ 2013-2017|☆☆|
+|CadLib|永久1300$|C++/C#/JAVA|AutoCAD™ 2013-2017|☆☆☆|
+|CADSoftTools|永久 700$--1600 $不限|C++/C#/JAVA|AutoCAD™ 2013-2017|☆☆|
 
 
 ## 各类产品
 
-### 迅捷CAD
+### 迅捷CAD免费版
 	
  | SDK |  Open Design Alliance |
  |- |- |
@@ -47,6 +46,17 @@
  | 格式转换 |✔️|
  | 3D视图|❌|
  | 自定义格式导出|❌|
+ 
+ ### 迅捷CAD标准版
+	
+ | SDK |  CADSoftTools |
+ |- |- |
+ | 图层|✔️|
+ | 测量   |✔️|
+ | 编辑CAD |✔️|
+ | 格式转换 |✔️|
+ | 3D视图|✔️|
+ | 自定义格式导出|✔️|
 	
 ### CAD快速看图
    | SDK |  未知 |
@@ -68,7 +78,7 @@
  | 自定义格式导出|❌|
 ### 转转大师CAD编辑器
 
-  | SDK | CADSoftTools |
+  | SDK | CADSoftTools|
  |- |- |
   | 图层|✔️|
  | 测量   |✔️|
